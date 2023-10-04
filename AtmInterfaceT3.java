@@ -105,7 +105,7 @@ class ATM
     }
 }
 
-public class AtmInterfaceT5 
+public class AtmInterfaceT3 
 {
     public static void main(String[] args)
      {
