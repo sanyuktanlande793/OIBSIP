@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class NumberGuessingT1
+public class NumberGuessingT2
  {
     public static void main(String[] args) 
     {
